@@ -1,3 +1,9 @@
+**Usage**
+```python
+# app 폴더 내에서 아래 명령어 실행
+streamlit run app.py --server.host 0.0.0.0 --server.port yourport
+```
+
 > 예제 코드 출처 : [Flashback 님 : Python - FastAPI DB Connection ( SQLAlchemy )](https://phsun102.tistory.com/m/63)
 >
 > 👀 FastAPI 에서 Sqlalchemy 를 이용해 GCP Compute Engine 의 MySQL Server 와 연결하는 내용을 담고 있습니다. 
